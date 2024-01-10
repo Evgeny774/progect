@@ -21,7 +21,8 @@
     <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
         <a class="me-4 py-3 link-body-emphasis text-decoration-none" href="/">Главная</a>
         <a class="me-4 py-3 link-body-emphasis text-decoration-none" href="/about">Про нас</a>
-        <a class="me-4 py-3 link-body-emphasis text-decoration-none" href="/admin/user">Войти</a>
+        <a class="me-4 py-3 link-body-emphasis text-decoration-none" href="/admin/register">Регистрация</a>
+        <a class="me-4 py-3 link-body-emphasis text-decoration-none" href="/admin/login">Войти</a>
         <a class="py-2 link-body-emphasis text-decoration-none" href="#"></a>
     </nav>
 </div>
